@@ -1,5 +1,5 @@
 # news_analytics
-homework for Social Analytics "News Mood" 
+Social Analytics "News Mood" 
 User will need to provide their own Twitter API keys in file config.py
 
 This program will provide a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: **BBC, CBS, CNN, Fox, and New York times**. It will produce a scatter plot of sentiments of the last **100** tweets sent out by each news organization, ranging from -1.0 to 1.0, reflecting the compound sentiments analyzed by VADERm for each tweet. The scatter plots will be exported to the results folder under the names scatter1.png - scatter5.png
